@@ -95,5 +95,5 @@ Want to improve **FlightEase**? Contributions are welcome!
 4. **Push** to your fork (`git push origin feature-xyz`)  
 5. Open a **Pull Request** 🚀  
 
----
+
 

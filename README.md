@@ -1,9 +1,5 @@
 # ✈️ FlightEase – Itinerary Formatter
 
-![Java](https://img.shields.io/badge/Java-17-orange.svg)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-
 FlightEase is a **command-line tool** designed to **prettify** flight itineraries by converting raw administrator-formatted data into a **clean, customer-friendly format**. It simplifies **airport codes**, formats **dates/times**, and enhances readability.
 
 ---
@@ -101,7 +97,3 @@ Want to improve **FlightEase**? Contributions are welcome!
 
 ---
 
-## 📜 License
-This project is **open-source** and licensed under the [MIT License](LICENSE).  
-
----
